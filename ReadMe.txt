@@ -1,0 +1,1 @@
+A little utility to facilitate the inclusion of assembled .bin files into VB projects. Download is 2.3 kB only.
